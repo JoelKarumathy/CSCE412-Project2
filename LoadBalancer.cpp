@@ -30,11 +30,18 @@ int main(int argc, char** argv){
 
 	queue<Request*> requestqueue;
 
-	for(int i = 0; i < servers*2; i++){
+	//int startingQueueSize = servers*2;
+	int startingQueueSize = 250;
+
+	for(int i = 0; i < startingQueueSize; i++){
 		requestqueue.push(new Request());
 	}
 
 	int iteration = 0;
+
+	cout << "Starting with queue size " + to_string(requestqueue.size())  << endl;
+
+	int timeToNextRequest = rand() % 5 + 1;
 
 	while(iteration < time){
 		bool allWebserversFree = true;
@@ -54,17 +61,22 @@ int main(int argc, char** argv){
 		
 
 		if(requestqueue.empty() && allWebserversFree){
-			cout << "Finished at time " + to_string(iteration) << endl;
+			cout << "Finished at time " + to_string(iteration) + " wite queue size 0" << endl;
 			for(int i = 0; i < servers; i++){ 
 				delete webservers[i];
 			} 
 			return 0;
 		}
 
+		if(--timeToNextRequest == 0){
+			requestqueue.push(new Request());
+			timeToNextRequest = rand() % 5 + 1;
+		}
+
 		iteration++;
 	}
 
-	cout << "Finished at time " + to_string(iteration) << endl;
+	cout << "Finished at time " + to_string(iteration) + " with queue size " + to_string(requestqueue.size())  << endl;
 
 }
 
