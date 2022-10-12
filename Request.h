@@ -5,6 +5,9 @@
 
 using namespace std;
 
+/**
+ * Generates random IP addresses, both in and out, and random times for each request to be processed.
+ */
 class Request{
 	public:
 		string ipIN; //!< Randomly generated IP address for intake
