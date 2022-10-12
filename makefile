@@ -11,4 +11,4 @@ Webserver.o: Webserver.cpp
 	g++ -c Webserver.cpp 
 
 clean:
-	rm *.o output
+	rm *.o a.out

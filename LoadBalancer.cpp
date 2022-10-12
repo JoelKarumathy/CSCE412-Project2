@@ -1,3 +1,16 @@
+/*!
+ * \author Joel Karumathy
+ *
+ * \date 2022-10-11
+ *
+ * \mainpage CSCE 412 Project 2
+ * \section Introduction
+ * In this project, we model a simulation of a large company load balancing web requests using a load balancer.
+ * \section run_section Running The Program
+ * To compile this program run `make` in the project root directory.
+ * To run the compiled code run `./a.out {Number of Servers} {Number of Clock Cycles}`.
+*/
+
 #include<iostream>
 #include<queue>
 #include<vector>
@@ -31,7 +44,7 @@ int main(int argc, char** argv){
 	queue<Request*> requestqueue;
 
 	//int startingQueueSize = servers*2;
-	int startingQueueSize = 250;
+	int startingQueueSize = 500;
 
 	for(int i = 0; i < startingQueueSize; i++){
 		requestqueue.push(new Request());
