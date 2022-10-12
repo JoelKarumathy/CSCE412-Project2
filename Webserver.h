@@ -3,7 +3,7 @@
 
 #include "Request.h"
 
-/**
+/** \class
  * Takes requests from the Load Balancer, Process the requests, and Asks for another.
  */
 class Webserver{

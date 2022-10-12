@@ -6,6 +6,7 @@
 using namespace std;
 
 /**
+ * \class
  * Generates random IP addresses, both in and out, and random times for each request to be processed.
  */
 class Request{
