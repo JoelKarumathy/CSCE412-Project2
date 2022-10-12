@@ -71,12 +71,12 @@ $(function() {
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="Request_8h.html">Request.h</a>&quot;</span></div>
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160; </div>
 <div class="line"><a name="l00006"></a><span class="lineno"><a class="line" href="classWebserver.html">    6</a></span>&#160;<span class="keyword">class </span><a class="code" href="classWebserver.html">Webserver</a>{</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    <span class="keyword">private</span>:</div>
-<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;        <span class="keywordtype">int</span> start_time;</div>
-<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        <a class="code" href="classRequest.html">Request</a>* request;</div>
-<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;        <span class="keywordtype">bool</span> startUp;</div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;    <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00008"></a><span class="lineno"><a class="line" href="classWebserver.html#a346c0b3508ad4495eb43bc5c5bc7a535">    8</a></span>&#160;        <span class="keywordtype">int</span> <a class="code" href="classWebserver.html#a346c0b3508ad4495eb43bc5c5bc7a535">start_time</a>; </div>
+<div class="line"><a name="l00009"></a><span class="lineno"><a class="line" href="classWebserver.html#a0cf68d6e7645430ddadccc2551302de6">    9</a></span>&#160;        <a class="code" href="classRequest.html">Request</a>* <a class="code" href="classWebserver.html#a0cf68d6e7645430ddadccc2551302de6">request</a>; </div>
+<div class="line"><a name="l00010"></a><span class="lineno"><a class="line" href="classWebserver.html#aa9ea0550085279e03b0982e7d89defa6">   10</a></span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classWebserver.html#aa9ea0550085279e03b0982e7d89defa6">startUp</a>; </div>
 <div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160; </div>
-<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;    </div>
 <div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;        <a class="code" href="classWebserver.html#ac2a6f51bcc54efaaf5f4773a7c24f009">Webserver</a>();</div>
 <div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classWebserver.html#a5a2ad14aa23f2396a952fd3ec43a4fdc">assignRequest</a>(<span class="keywordtype">int</span> curr_time, <a class="code" href="classRequest.html">Request</a>* req, <span class="keywordtype">int</span> webserver_num);</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classWebserver.html#acdc409aef3b53c9c3c5f9e93eace9ecc">free</a>(<span class="keywordtype">int</span> curr_time);</div>
@@ -88,9 +88,12 @@ $(function() {
 <div class="ttc" id="aclassWebserver_html_a5a2ad14aa23f2396a952fd3ec43a4fdc"><div class="ttname"><a href="classWebserver.html#a5a2ad14aa23f2396a952fd3ec43a4fdc">Webserver::assignRequest</a></div><div class="ttdeci">void assignRequest(int curr_time, Request *req, int webserver_num)</div><div class="ttdef"><b>Definition:</b> Webserver.cpp:12</div></div>
 <div class="ttc" id="aclassWebserver_html_acdc409aef3b53c9c3c5f9e93eace9ecc"><div class="ttname"><a href="classWebserver.html#acdc409aef3b53c9c3c5f9e93eace9ecc">Webserver::free</a></div><div class="ttdeci">bool free(int curr_time)</div><div class="ttdef"><b>Definition:</b> Webserver.cpp:18</div></div>
 <div class="ttc" id="aclassWebserver_html_ac2a6f51bcc54efaaf5f4773a7c24f009"><div class="ttname"><a href="classWebserver.html#ac2a6f51bcc54efaaf5f4773a7c24f009">Webserver::Webserver</a></div><div class="ttdeci">Webserver()</div><div class="ttdef"><b>Definition:</b> Webserver.cpp:8</div></div>
+<div class="ttc" id="aclassWebserver_html_a0cf68d6e7645430ddadccc2551302de6"><div class="ttname"><a href="classWebserver.html#a0cf68d6e7645430ddadccc2551302de6">Webserver::request</a></div><div class="ttdeci">Request * request</div><div class="ttdoc">Pointer to current Request object that is being fulfilled by server.</div><div class="ttdef"><b>Definition:</b> Webserver.h:9</div></div>
 <div class="ttc" id="aRequest_8h_html"><div class="ttname"><a href="Request_8h.html">Request.h</a></div></div>
 <div class="ttc" id="aclassWebserver_html"><div class="ttname"><a href="classWebserver.html">Webserver</a></div><div class="ttdef"><b>Definition:</b> Webserver.h:6</div></div>
 <div class="ttc" id="aclassRequest_html"><div class="ttname"><a href="classRequest.html">Request</a></div><div class="ttdef"><b>Definition:</b> Request.h:8</div></div>
+<div class="ttc" id="aclassWebserver_html_aa9ea0550085279e03b0982e7d89defa6"><div class="ttname"><a href="classWebserver.html#aa9ea0550085279e03b0982e7d89defa6">Webserver::startUp</a></div><div class="ttdeci">bool startUp</div><div class="ttdoc">Flag that indicates first use of Webserver.</div><div class="ttdef"><b>Definition:</b> Webserver.h:10</div></div>
+<div class="ttc" id="aclassWebserver_html_a346c0b3508ad4495eb43bc5c5bc7a535"><div class="ttname"><a href="classWebserver.html#a346c0b3508ad4495eb43bc5c5bc7a535">Webserver::start_time</a></div><div class="ttdeci">int start_time</div><div class="ttdoc">Time in which Webserver object has started fulfilling a Request object.</div><div class="ttdef"><b>Definition:</b> Webserver.h:8</div></div>
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
 Generated by &#160;<a href="http://www.doxygen.org/index.html">

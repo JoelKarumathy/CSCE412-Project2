@@ -23,7 +23,16 @@
 using namespace std;
 
 
-
+/*!
+ * \brief Main Function which acts as load balancer by assigning requests to web servers
+ * \param argc Number of arguments passed to program
+ * \param argv List of arguments passed to program
+ * \details The main function first obtains the number of web servers and total time iterations through command line input. 
+ * Next, the function initializes the inputted number of web servers and fills a queue with a defined number of requests.
+ * The function then iterates through a while loop in which each iteration represents a single tick. The while loop will last as long as specified by the user input.
+ * In each iteration, each web server will be checked. If the server is free, it will be assigned a request. 
+ * If all web servers are free and the queue of requests is empty before the while loop iterations are completed, the program will exit.
+*/
 int main(int argc, char** argv){
 	srand(time(NULL));
 

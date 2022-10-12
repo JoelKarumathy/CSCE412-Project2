@@ -63,6 +63,7 @@ $(function() {
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="classWebserver-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Webserver Class Reference</div>  </div>
@@ -70,6 +71,11 @@ $(function() {
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="Webserver_8h_source.html">Webserver.h</a>&gt;</code></p>
+<div class="dynheader">
+Collaboration diagram for Webserver:</div>
+<div class="dyncontent">
+<div class="center"><img src="classWebserver__coll__graph.png" border="0" usemap="#Webserver_coll__map" alt="Collaboration graph"/></div>
+<center><span class="legend">[<a href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
@@ -79,6 +85,18 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5a2ad14aa23f2396a952fd3ec43a4fdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acdc409aef3b53c9c3c5f9e93eace9ecc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWebserver.html#acdc409aef3b53c9c3c5f9e93eace9ecc">free</a> (int curr_time)</td></tr>
 <tr class="separator:acdc409aef3b53c9c3c5f9e93eace9ecc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a346c0b3508ad4495eb43bc5c5bc7a535"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWebserver.html#a346c0b3508ad4495eb43bc5c5bc7a535">start_time</a></td></tr>
+<tr class="memdesc:a346c0b3508ad4495eb43bc5c5bc7a535"><td class="mdescLeft">&#160;</td><td class="mdescRight">Time in which <a class="el" href="classWebserver.html">Webserver</a> object has started fulfilling a <a class="el" href="classRequest.html">Request</a> object.  <a href="classWebserver.html#a346c0b3508ad4495eb43bc5c5bc7a535">More...</a><br /></td></tr>
+<tr class="separator:a346c0b3508ad4495eb43bc5c5bc7a535"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cf68d6e7645430ddadccc2551302de6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classRequest.html">Request</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWebserver.html#a0cf68d6e7645430ddadccc2551302de6">request</a></td></tr>
+<tr class="memdesc:a0cf68d6e7645430ddadccc2551302de6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pointer to current <a class="el" href="classRequest.html">Request</a> object that is being fulfilled by server.  <a href="classWebserver.html#a0cf68d6e7645430ddadccc2551302de6">More...</a><br /></td></tr>
+<tr class="separator:a0cf68d6e7645430ddadccc2551302de6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9ea0550085279e03b0982e7d89defa6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWebserver.html#aa9ea0550085279e03b0982e7d89defa6">startUp</a></td></tr>
+<tr class="memdesc:aa9ea0550085279e03b0982e7d89defa6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flag that indicates first use of <a class="el" href="classWebserver.html">Webserver</a>.  <a href="classWebserver.html#aa9ea0550085279e03b0982e7d89defa6">More...</a><br /></td></tr>
+<tr class="separator:aa9ea0550085279e03b0982e7d89defa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="ac2a6f51bcc54efaaf5f4773a7c24f009"></a>
@@ -148,6 +166,55 @@ Public Member Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a0cf68d6e7645430ddadccc2551302de6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0cf68d6e7645430ddadccc2551302de6">&#9670;&nbsp;</a></span>request</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classRequest.html">Request</a>* Webserver::request</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Pointer to current <a class="el" href="classRequest.html">Request</a> object that is being fulfilled by server. </p>
+
+</div>
+</div>
+<a id="a346c0b3508ad4495eb43bc5c5bc7a535"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a346c0b3508ad4495eb43bc5c5bc7a535">&#9670;&nbsp;</a></span>start_time</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Webserver::start_time</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Time in which <a class="el" href="classWebserver.html">Webserver</a> object has started fulfilling a <a class="el" href="classRequest.html">Request</a> object. </p>
+
+</div>
+</div>
+<a id="aa9ea0550085279e03b0982e7d89defa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9ea0550085279e03b0982e7d89defa6">&#9670;&nbsp;</a></span>startUp</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Webserver::startUp</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Flag that indicates first use of <a class="el" href="classWebserver.html">Webserver</a>. </p>
 
 </div>
 </div>
