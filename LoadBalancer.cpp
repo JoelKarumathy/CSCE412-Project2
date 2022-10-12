@@ -1,7 +1,7 @@
 /*!
  * \author Joel Karumathy
  *
- * \date 2022-10-11
+ * \date October 11, 2022
  *
  * \mainpage CSCE 412 Project 2
  * \section Introduction
