@@ -5,7 +5,9 @@
 using namespace std;
 
 
-	
+/*!
+ * \brief Populates instance variables with Random In IP Address, Random Out IP Address, and Random Time to Complete Request.
+*/
 Request::Request(){
 	for(int i = 0; i < 4; i++){
 		ipIN += to_string(rand() % 256);
