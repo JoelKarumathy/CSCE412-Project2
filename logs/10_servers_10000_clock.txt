@@ -1,0 +1,799 @@
+Starting with queue size 500
+Range for task times: 2-500
+At time 0 assigned request 173.15.169.225 of processing time 90 to Web Server 1
+At time 0 assigned request 159.212.44.253 of processing time 79 to Web Server 2
+At time 0 assigned request 62.158.234.223 of processing time 318 to Web Server 3
+At time 0 assigned request 3.86.243.166 of processing time 222 to Web Server 4
+At time 0 assigned request 206.119.183.11 of processing time 49 to Web Server 5
+At time 0 assigned request 96.214.147.35 of processing time 433 to Web Server 6
+At time 0 assigned request 64.114.244.201 of processing time 180 to Web Server 7
+At time 0 assigned request 191.108.50.182 of processing time 207 to Web Server 8
+At time 0 assigned request 249.125.213.170 of processing time 64 to Web Server 9
+At time 0 assigned request 111.14.178.112 of processing time 255 to Web Server 10
+At time 49 processed request from 206.119.183.11 to 23.139.55.20
+At time 50 assigned request 175.213.182.253 of processing time 6 to Web Server 5
+At time 56 processed request from 175.213.182.253 to 149.34.47.75
+At time 57 assigned request 217.185.162.154 of processing time 334 to Web Server 5
+At time 64 processed request from 249.125.213.170 to 222.171.61.1
+At time 65 assigned request 26.154.255.217 of processing time 57 to Web Server 9
+At time 79 processed request from 159.212.44.253 to 37.41.194.227
+At time 80 assigned request 176.222.117.74 of processing time 194 to Web Server 2
+At time 90 processed request from 173.15.169.225 to 244.126.147.192
+At time 91 assigned request 34.186.43.126 of processing time 344 to Web Server 1
+At time 122 processed request from 26.154.255.217 to 9.13.139.122
+At time 123 assigned request 65.157.244.63 of processing time 216 to Web Server 9
+At time 180 processed request from 64.114.244.201 to 117.74.189.28
+At time 181 assigned request 75.29.18.168 of processing time 421 to Web Server 7
+At time 207 processed request from 191.108.50.182 to 58.170.110.70
+At time 208 assigned request 103.23.9.71 of processing time 314 to Web Server 8
+At time 222 processed request from 3.86.243.166 to 3.2.80.228
+At time 223 assigned request 86.216.132.238 of processing time 20 to Web Server 4
+At time 243 processed request from 86.216.132.238 to 25.34.226.88
+At time 244 assigned request 113.150.107.10 of processing time 387 to Web Server 4
+At time 255 processed request from 111.14.178.112 to 79.36.100.24
+At time 256 assigned request 13.167.108.140 of processing time 150 to Web Server 10
+At time 274 processed request from 176.222.117.74 to 141.74.0.138
+At time 275 assigned request 88.199.116.174 of processing time 180 to Web Server 2
+At time 318 processed request from 62.158.234.223 to 208.51.127.242
+At time 319 assigned request 85.238.190.47 of processing time 117 to Web Server 3
+At time 339 processed request from 65.157.244.63 to 184.143.62.145
+At time 340 assigned request 35.134.193.120 of processing time 343 to Web Server 9
+At time 391 processed request from 217.185.162.154 to 179.32.111.93
+At time 392 assigned request 104.181.204.37 of processing time 147 to Web Server 5
+At time 406 processed request from 13.167.108.140 to 14.131.149.85
+At time 407 assigned request 229.238.189.75 of processing time 248 to Web Server 10
+At time 433 processed request from 96.214.147.35 to 20.49.13.243
+At time 434 assigned request 95.13.118.150 of processing time 88 to Web Server 6
+At time 435 processed request from 34.186.43.126 to 147.228.33.46
+At time 436 assigned request 191.141.176.53 of processing time 477 to Web Server 1
+At time 436 processed request from 85.238.190.47 to 96.85.154.106
+At time 437 assigned request 149.180.46.70 of processing time 330 to Web Server 3
+At time 455 processed request from 88.199.116.174 to 30.76.51.12
+At time 456 assigned request 176.239.210.188 of processing time 122 to Web Server 2
+At time 522 processed request from 95.13.118.150 to 48.252.87.168
+At time 522 processed request from 103.23.9.71 to 57.195.114.183
+At time 523 assigned request 46.59.184.191 of processing time 500 to Web Server 6
+At time 523 assigned request 213.49.86.71 of processing time 191 to Web Server 8
+At time 539 processed request from 104.181.204.37 to 13.147.153.187
+At time 540 assigned request 146.16.137.242 of processing time 309 to Web Server 5
+At time 578 processed request from 176.239.210.188 to 78.223.50.228
+At time 579 assigned request 164.174.170.179 of processing time 69 to Web Server 2
+At time 602 processed request from 75.29.18.168 to 205.241.29.23
+At time 603 assigned request 177.11.14.236 of processing time 338 to Web Server 7
+At time 631 processed request from 113.150.107.10 to 226.136.28.138
+At time 632 assigned request 77.157.18.241 of processing time 13 to Web Server 4
+At time 645 processed request from 77.157.18.241 to 47.34.122.33
+At time 646 assigned request 242.230.95.184 of processing time 312 to Web Server 4
+At time 648 processed request from 164.174.170.179 to 221.229.107.156
+At time 649 assigned request 71.169.135.38 of processing time 416 to Web Server 2
+At time 655 processed request from 229.238.189.75 to 67.172.10.114
+At time 656 assigned request 116.137.155.122 of processing time 146 to Web Server 10
+At time 683 processed request from 35.134.193.120 to 148.104.229.32
+At time 684 assigned request 174.67.137.145 of processing time 312 to Web Server 9
+At time 714 processed request from 213.49.86.71 to 198.10.117.12
+At time 715 assigned request 255.80.55.234 of processing time 274 to Web Server 8
+At time 767 processed request from 149.180.46.70 to 153.28.4.229
+At time 768 assigned request 3.243.128.118 of processing time 449 to Web Server 3
+At time 802 processed request from 116.137.155.122 to 215.56.140.200
+At time 803 assigned request 74.110.169.178 of processing time 232 to Web Server 10
+At time 849 processed request from 146.16.137.242 to 192.120.196.124
+At time 850 assigned request 171.159.16.164 of processing time 282 to Web Server 5
+At time 913 processed request from 191.141.176.53 to 246.101.1.27
+At time 914 assigned request 187.249.183.245 of processing time 399 to Web Server 1
+At time 941 processed request from 177.11.14.236 to 224.63.67.40
+At time 942 assigned request 128.132.244.97 of processing time 74 to Web Server 7
+At time 958 processed request from 242.230.95.184 to 138.14.98.61
+At time 959 assigned request 247.188.45.25 of processing time 77 to Web Server 4
+At time 989 processed request from 255.80.55.234 to 152.224.113.190
+At time 990 assigned request 137.231.242.130 of processing time 183 to Web Server 8
+At time 996 processed request from 174.67.137.145 to 53.111.241.238
+At time 997 assigned request 227.14.90.246 of processing time 88 to Web Server 9
+At time 1016 processed request from 128.132.244.97 to 206.98.10.128
+At time 1017 assigned request 77.249.46.204 of processing time 428 to Web Server 7
+At time 1023 processed request from 46.59.184.191 to 250.69.111.47
+At time 1024 assigned request 197.50.92.47 of processing time 406 to Web Server 6
+At time 1035 processed request from 74.110.169.178 to 28.236.59.174
+At time 1036 processed request from 247.188.45.25 to 103.204.41.11
+At time 1036 assigned request 12.119.126.243 of processing time 368 to Web Server 10
+At time 1037 assigned request 45.59.9.218 of processing time 151 to Web Server 4
+At time 1065 processed request from 71.169.135.38 to 90.146.53.70
+At time 1066 assigned request 242.77.252.67 of processing time 146 to Web Server 2
+At time 1085 processed request from 227.14.90.246 to 142.223.234.239
+At time 1086 assigned request 227.98.41.201 of processing time 428 to Web Server 9
+At time 1132 processed request from 171.159.16.164 to 158.96.219.136
+At time 1133 assigned request 211.175.75.237 of processing time 318 to Web Server 5
+At time 1173 processed request from 137.231.242.130 to 162.235.57.152
+At time 1174 assigned request 249.191.98.236 of processing time 94 to Web Server 8
+At time 1188 processed request from 45.59.9.218 to 136.2.8.84
+At time 1189 assigned request 23.149.2.2 of processing time 411 to Web Server 4
+At time 1212 processed request from 242.77.252.67 to 18.47.160.65
+At time 1213 assigned request 203.138.51.198 of processing time 149 to Web Server 2
+At time 1217 processed request from 3.243.128.118 to 104.10.17.226
+At time 1218 assigned request 151.65.118.165 of processing time 462 to Web Server 3
+At time 1268 processed request from 249.191.98.236 to 178.175.232.245
+At time 1269 assigned request 182.15.221.119 of processing time 398 to Web Server 8
+At time 1313 processed request from 187.249.183.245 to 252.170.118.115
+At time 1314 assigned request 221.84.46.175 of processing time 476 to Web Server 1
+At time 1362 processed request from 203.138.51.198 to 93.227.17.75
+At time 1363 assigned request 197.247.97.133 of processing time 325 to Web Server 2
+At time 1404 processed request from 12.119.126.243 to 90.140.78.80
+At time 1405 assigned request 49.58.3.25 of processing time 31 to Web Server 10
+At time 1430 processed request from 197.50.92.47 to 188.67.33.62
+At time 1431 assigned request 106.224.98.86 of processing time 238 to Web Server 6
+At time 1436 processed request from 49.58.3.25 to 240.18.247.103
+At time 1437 assigned request 61.78.188.83 of processing time 25 to Web Server 10
+At time 1445 processed request from 77.249.46.204 to 240.234.249.9
+At time 1446 assigned request 86.148.116.51 of processing time 202 to Web Server 7
+At time 1451 processed request from 211.175.75.237 to 220.134.246.183
+At time 1452 assigned request 73.214.5.130 of processing time 427 to Web Server 5
+At time 1462 processed request from 61.78.188.83 to 20.179.180.153
+At time 1463 assigned request 155.27.14.113 of processing time 121 to Web Server 10
+At time 1514 processed request from 227.98.41.201 to 110.160.71.97
+At time 1515 assigned request 225.95.10.35 of processing time 48 to Web Server 9
+At time 1563 processed request from 225.95.10.35 to 181.158.151.233
+At time 1564 assigned request 70.32.68.228 of processing time 96 to Web Server 9
+At time 1584 processed request from 155.27.14.113 to 88.93.46.171
+At time 1585 assigned request 207.208.241.114 of processing time 133 to Web Server 10
+At time 1600 processed request from 23.149.2.2 to 121.100.43.66
+At time 1601 assigned request 221.11.15.78 of processing time 28 to Web Server 4
+At time 1629 processed request from 221.11.15.78 to 236.110.88.15
+At time 1630 assigned request 247.167.13.91 of processing time 391 to Web Server 4
+At time 1648 processed request from 86.148.116.51 to 198.174.55.223
+At time 1649 assigned request 186.187.130.21 of processing time 404 to Web Server 7
+At time 1660 processed request from 70.32.68.228 to 105.26.234.236
+At time 1661 assigned request 19.125.155.119 of processing time 391 to Web Server 9
+At time 1667 processed request from 182.15.221.119 to 38.115.121.41
+At time 1668 assigned request 245.2.162.25 of processing time 268 to Web Server 8
+At time 1669 processed request from 106.224.98.86 to 189.182.132.108
+At time 1670 assigned request 83.244.8.234 of processing time 375 to Web Server 6
+At time 1680 processed request from 151.65.118.165 to 58.54.7.38
+At time 1681 assigned request 191.201.75.126 of processing time 174 to Web Server 3
+At time 1688 processed request from 197.247.97.133 to 142.162.251.51
+At time 1689 assigned request 192.219.205.83 of processing time 336 to Web Server 2
+At time 1718 processed request from 207.208.241.114 to 107.12.128.221
+At time 1719 assigned request 63.16.29.117 of processing time 125 to Web Server 10
+At time 1790 processed request from 221.84.46.175 to 32.184.226.230
+At time 1791 assigned request 65.186.130.143 of processing time 345 to Web Server 1
+At time 1844 processed request from 63.16.29.117 to 100.17.125.78
+At time 1845 assigned request 164.17.124.200 of processing time 20 to Web Server 10
+At time 1855 processed request from 191.201.75.126 to 220.201.25.84
+At time 1856 assigned request 101.26.17.45 of processing time 28 to Web Server 3
+At time 1865 processed request from 164.17.124.200 to 209.87.149.36
+At time 1866 assigned request 91.76.212.26 of processing time 198 to Web Server 10
+At time 1879 processed request from 73.214.5.130 to 64.229.228.150
+At time 1880 assigned request 232.247.0.16 of processing time 307 to Web Server 5
+At time 1884 processed request from 101.26.17.45 to 89.34.74.206
+At time 1885 assigned request 227.249.8.10 of processing time 248 to Web Server 3
+At time 1936 processed request from 245.2.162.25 to 249.73.38.84
+At time 1937 assigned request 62.214.73.196 of processing time 228 to Web Server 8
+At time 2021 processed request from 247.167.13.91 to 237.45.159.209
+At time 2022 assigned request 38.232.63.47 of processing time 187 to Web Server 4
+At time 2025 processed request from 192.219.205.83 to 208.207.245.234
+At time 2026 assigned request 65.108.53.37 of processing time 420 to Web Server 2
+At time 2045 processed request from 83.244.8.234 to 174.195.108.195
+At time 2046 assigned request 79.118.24.202 of processing time 333 to Web Server 6
+At time 2052 processed request from 19.125.155.119 to 91.166.135.169
+At time 2053 processed request from 186.187.130.21 to 139.83.6.253
+At time 2053 assigned request 169.16.107.203 of processing time 176 to Web Server 9
+At time 2054 assigned request 65.149.5.19 of processing time 122 to Web Server 7
+At time 2064 processed request from 91.76.212.26 to 141.142.156.28
+At time 2065 assigned request 119.40.27.3 of processing time 263 to Web Server 10
+At time 2133 processed request from 227.249.8.10 to 94.34.28.139
+At time 2134 assigned request 9.85.189.41 of processing time 385 to Web Server 3
+At time 2136 processed request from 65.186.130.143 to 122.75.219.248
+At time 2137 assigned request 232.212.105.13 of processing time 131 to Web Server 1
+At time 2165 processed request from 62.214.73.196 to 49.149.152.76
+At time 2166 assigned request 131.112.208.68 of processing time 30 to Web Server 8
+At time 2176 processed request from 65.149.5.19 to 214.113.72.251
+At time 2177 assigned request 240.6.177.53 of processing time 482 to Web Server 7
+At time 2187 processed request from 232.247.0.16 to 155.18.140.99
+At time 2188 assigned request 191.205.206.195 of processing time 418 to Web Server 5
+At time 2196 processed request from 131.112.208.68 to 231.248.95.235
+At time 2197 assigned request 42.213.223.254 of processing time 47 to Web Server 8
+At time 2209 processed request from 38.232.63.47 to 208.54.47.224
+At time 2210 assigned request 199.252.34.55 of processing time 196 to Web Server 4
+At time 2229 processed request from 169.16.107.203 to 54.84.10.101
+At time 2230 assigned request 239.21.113.243 of processing time 485 to Web Server 9
+At time 2244 processed request from 42.213.223.254 to 88.79.206.157
+At time 2245 assigned request 99.195.184.26 of processing time 436 to Web Server 8
+At time 2268 processed request from 232.212.105.13 to 21.254.18.40
+At time 2269 assigned request 73.186.130.128 of processing time 477 to Web Server 1
+At time 2328 processed request from 119.40.27.3 to 119.145.27.65
+At time 2329 assigned request 202.161.142.3 of processing time 128 to Web Server 10
+At time 2379 processed request from 79.118.24.202 to 180.238.19.120
+At time 2380 assigned request 179.69.15.168 of processing time 52 to Web Server 6
+At time 2406 processed request from 199.252.34.55 to 237.40.232.34
+At time 2407 assigned request 237.188.172.211 of processing time 130 to Web Server 4
+At time 2432 processed request from 179.69.15.168 to 168.211.96.195
+At time 2433 assigned request 212.39.161.64 of processing time 184 to Web Server 6
+At time 2446 processed request from 65.108.53.37 to 79.46.45.90
+At time 2447 assigned request 114.105.85.234 of processing time 100 to Web Server 2
+At time 2457 processed request from 202.161.142.3 to 144.163.116.131
+At time 2458 assigned request 205.38.6.141 of processing time 381 to Web Server 10
+At time 2519 processed request from 9.85.189.41 to 254.205.148.201
+At time 2520 assigned request 161.60.77.137 of processing time 305 to Web Server 3
+At time 2537 processed request from 237.188.172.211 to 5.103.85.133
+At time 2538 assigned request 108.32.92.62 of processing time 4 to Web Server 4
+At time 2542 processed request from 108.32.92.62 to 146.197.148.125
+At time 2543 assigned request 46.119.168.113 of processing time 411 to Web Server 4
+At time 2547 processed request from 114.105.85.234 to 29.154.250.197
+At time 2548 assigned request 58.11.200.2 of processing time 150 to Web Server 2
+At time 2606 processed request from 191.205.206.195 to 182.162.44.195
+At time 2607 assigned request 196.96.101.43 of processing time 246 to Web Server 5
+At time 2617 processed request from 212.39.161.64 to 242.66.207.245
+At time 2618 assigned request 77.159.149.47 of processing time 463 to Web Server 6
+At time 2659 processed request from 240.6.177.53 to 16.6.242.57
+At time 2660 assigned request 165.183.33.135 of processing time 209 to Web Server 7
+At time 2681 processed request from 99.195.184.26 to 237.141.249.236
+At time 2682 assigned request 83.66.15.103 of processing time 28 to Web Server 8
+At time 2698 processed request from 58.11.200.2 to 172.4.79.54
+At time 2699 assigned request 82.186.72.106 of processing time 360 to Web Server 2
+At time 2710 processed request from 83.66.15.103 to 7.112.205.50
+At time 2711 assigned request 11.14.245.91 of processing time 326 to Web Server 8
+At time 2715 processed request from 239.21.113.243 to 212.63.193.151
+At time 2716 assigned request 170.137.144.131 of processing time 80 to Web Server 9
+At time 2746 processed request from 73.186.130.128 to 129.127.162.184
+At time 2747 assigned request 3.17.12.64 of processing time 416 to Web Server 1
+At time 2796 processed request from 170.137.144.131 to 220.211.147.68
+At time 2797 assigned request 112.205.4.38 of processing time 142 to Web Server 9
+At time 2825 processed request from 161.60.77.137 to 16.117.42.81
+At time 2826 assigned request 200.177.0.102 of processing time 254 to Web Server 3
+At time 2839 processed request from 205.38.6.141 to 19.194.58.230
+At time 2840 assigned request 201.114.170.163 of processing time 54 to Web Server 10
+At time 2853 processed request from 196.96.101.43 to 205.133.135.11
+At time 2854 assigned request 118.61.236.68 of processing time 191 to Web Server 5
+At time 2869 processed request from 165.183.33.135 to 241.45.79.243
+At time 2870 assigned request 90.240.199.31 of processing time 429 to Web Server 7
+At time 2894 processed request from 201.114.170.163 to 117.187.176.181
+At time 2895 assigned request 169.21.179.15 of processing time 351 to Web Server 10
+At time 2939 processed request from 112.205.4.38 to 217.18.28.52
+At time 2940 assigned request 116.50.79.146 of processing time 305 to Web Server 9
+At time 2954 processed request from 46.119.168.113 to 68.206.119.209
+At time 2955 assigned request 57.53.15.204 of processing time 166 to Web Server 4
+At time 3037 processed request from 11.14.245.91 to 179.172.125.58
+At time 3038 assigned request 12.206.216.225 of processing time 308 to Web Server 8
+At time 3045 processed request from 118.61.236.68 to 174.186.72.212
+At time 3046 assigned request 186.63.79.84 of processing time 47 to Web Server 5
+At time 3059 processed request from 82.186.72.106 to 7.232.255.54
+At time 3060 assigned request 49.196.23.108 of processing time 175 to Web Server 2
+At time 3080 processed request from 200.177.0.102 to 91.137.246.223
+At time 3081 assigned request 123.93.138.52 of processing time 367 to Web Server 3
+At time 3081 processed request from 77.159.149.47 to 206.12.215.63
+At time 3082 assigned request 250.223.85.198 of processing time 248 to Web Server 6
+At time 3093 processed request from 186.63.79.84 to 179.129.164.69
+At time 3094 assigned request 151.145.140.193 of processing time 192 to Web Server 5
+At time 3121 processed request from 57.53.15.204 to 143.0.147.174
+At time 3122 assigned request 37.170.24.1 of processing time 286 to Web Server 4
+At time 3163 processed request from 3.17.12.64 to 99.198.136.206
+At time 3164 assigned request 227.102.41.178 of processing time 439 to Web Server 1
+At time 3235 processed request from 49.196.23.108 to 253.76.123.201
+At time 3236 assigned request 155.60.142.226 of processing time 55 to Web Server 2
+At time 3245 processed request from 116.50.79.146 to 169.141.127.237
+At time 3246 assigned request 191.110.17.14 of processing time 350 to Web Server 9
+At time 3246 processed request from 169.21.179.15 to 223.37.185.130
+At time 3247 assigned request 155.31.58.121 of processing time 430 to Web Server 10
+At time 3286 processed request from 151.145.140.193 to 194.81.217.46
+At time 3287 assigned request 170.187.40.75 of processing time 85 to Web Server 5
+At time 3291 processed request from 155.60.142.226 to 211.32.110.149
+At time 3292 assigned request 250.167.205.220 of processing time 357 to Web Server 2
+At time 3299 processed request from 90.240.199.31 to 185.121.31.31
+At time 3300 assigned request 168.154.99.137 of processing time 129 to Web Server 7
+At time 3330 processed request from 250.223.85.198 to 153.148.21.237
+At time 3331 assigned request 100.81.58.102 of processing time 468 to Web Server 6
+At time 3346 processed request from 12.206.216.225 to 119.237.148.134
+At time 3347 assigned request 243.33.132.44 of processing time 482 to Web Server 8
+At time 3372 processed request from 170.187.40.75 to 86.101.218.56
+At time 3373 assigned request 53.229.6.4 of processing time 265 to Web Server 5
+At time 3408 processed request from 37.170.24.1 to 37.117.139.90
+At time 3409 assigned request 234.218.133.112 of processing time 171 to Web Server 4
+At time 3429 processed request from 168.154.99.137 to 53.131.195.175
+At time 3430 assigned request 159.51.26.235 of processing time 97 to Web Server 7
+At time 3448 processed request from 123.93.138.52 to 105.88.12.74
+At time 3449 assigned request 155.76.79.45 of processing time 370 to Web Server 3
+At time 3527 processed request from 159.51.26.235 to 39.60.112.83
+At time 3528 assigned request 213.237.218.171 of processing time 500 to Web Server 7
+At time 3580 processed request from 234.218.133.112 to 63.215.170.165
+At time 3581 assigned request 8.241.152.219 of processing time 89 to Web Server 4
+At time 3596 processed request from 191.110.17.14 to 147.187.38.148
+At time 3597 assigned request 49.236.70.137 of processing time 435 to Web Server 9
+At time 3603 processed request from 227.102.41.178 to 96.8.7.39
+At time 3604 assigned request 13.233.153.208 of processing time 453 to Web Server 1
+At time 3638 processed request from 53.229.6.4 to 142.161.103.23
+At time 3639 assigned request 95.155.165.82 of processing time 17 to Web Server 5
+At time 3649 processed request from 250.167.205.220 to 102.59.237.116
+At time 3650 assigned request 183.115.164.170 of processing time 167 to Web Server 2
+At time 3656 processed request from 95.155.165.82 to 163.151.235.126
+At time 3657 assigned request 130.6.206.150 of processing time 389 to Web Server 5
+At time 3670 processed request from 8.241.152.219 to 145.204.245.124
+At time 3671 assigned request 182.143.224.20 of processing time 146 to Web Server 4
+At time 3677 processed request from 155.31.58.121 to 2.161.162.180
+At time 3678 assigned request 81.43.156.121 of processing time 482 to Web Server 10
+At time 3799 processed request from 100.81.58.102 to 252.245.142.71
+At time 3800 assigned request 174.124.227.199 of processing time 39 to Web Server 6
+At time 3817 processed request from 183.115.164.170 to 165.145.240.46
+At time 3817 processed request from 182.143.224.20 to 238.123.186.64
+At time 3818 assigned request 78.197.226.196 of processing time 4 to Web Server 2
+At time 3818 assigned request 32.74.159.63 of processing time 187 to Web Server 4
+At time 3819 processed request from 155.76.79.45 to 129.53.52.133
+At time 3820 assigned request 235.50.58.160 of processing time 339 to Web Server 3
+At time 3822 processed request from 78.197.226.196 to 124.113.165.144
+At time 3823 assigned request 109.62.75.106 of processing time 425 to Web Server 2
+At time 3829 processed request from 243.33.132.44 to 27.43.249.248
+At time 3830 assigned request 189.245.29.28 of processing time 107 to Web Server 8
+At time 3839 processed request from 174.124.227.199 to 255.233.150.149
+At time 3840 assigned request 135.48.23.52 of processing time 165 to Web Server 6
+At time 3937 processed request from 189.245.29.28 to 22.103.188.85
+At time 3938 assigned request 37.64.210.218 of processing time 225 to Web Server 8
+At time 4005 processed request from 32.74.159.63 to 155.203.219.20
+At time 4005 processed request from 135.48.23.52 to 28.73.110.188
+At time 4006 assigned request 54.100.236.194 of processing time 142 to Web Server 4
+At time 4006 assigned request 71.250.77.74 of processing time 196 to Web Server 6
+At time 4028 processed request from 213.237.218.171 to 215.180.49.71
+At time 4029 assigned request 171.36.86.213 of processing time 372 to Web Server 7
+At time 4032 processed request from 49.236.70.137 to 136.146.216.181
+At time 4033 assigned request 183.73.90.83 of processing time 281 to Web Server 9
+At time 4046 processed request from 130.6.206.150 to 20.184.48.228
+At time 4047 assigned request 33.33.30.25 of processing time 53 to Web Server 5
+At time 4057 processed request from 13.233.153.208 to 190.134.170.106
+At time 4058 assigned request 228.19.78.125 of processing time 361 to Web Server 1
+At time 4100 processed request from 33.33.30.25 to 104.24.102.178
+At time 4101 assigned request 105.58.223.172 of processing time 170 to Web Server 5
+At time 4148 processed request from 54.100.236.194 to 33.226.223.62
+At time 4149 assigned request 197.132.232.165 of processing time 237 to Web Server 4
+At time 4159 processed request from 235.50.58.160 to 224.182.131.168
+At time 4160 assigned request 219.37.35.116 of processing time 41 to Web Server 3
+At time 4160 processed request from 81.43.156.121 to 226.16.29.140
+At time 4161 assigned request 53.90.137.241 of processing time 96 to Web Server 10
+At time 4163 processed request from 37.64.210.218 to 173.16.37.23
+At time 4164 assigned request 248.119.249.159 of processing time 368 to Web Server 8
+At time 4201 processed request from 219.37.35.116 to 9.55.195.135
+At time 4202 assigned request 145.166.226.2 of processing time 141 to Web Server 3
+At time 4202 processed request from 71.250.77.74 to 129.125.97.181
+At time 4203 assigned request 93.185.152.82 of processing time 269 to Web Server 6
+At time 4248 processed request from 109.62.75.106 to 140.16.76.80
+At time 4249 assigned request 159.175.39.84 of processing time 215 to Web Server 2
+At time 4257 processed request from 53.90.137.241 to 196.195.208.112
+At time 4258 assigned request 203.206.190.238 of processing time 81 to Web Server 10
+At time 4271 processed request from 105.58.223.172 to 241.40.7.68
+At time 4272 assigned request 215.135.219.232 of processing time 281 to Web Server 5
+At time 4314 processed request from 183.73.90.83 to 127.190.63.65
+At time 4315 assigned request 115.18.98.41 of processing time 289 to Web Server 9
+At time 4339 processed request from 203.206.190.238 to 95.100.208.97
+At time 4340 assigned request 239.83.0.202 of processing time 146 to Web Server 10
+At time 4343 processed request from 145.166.226.2 to 129.7.38.246
+At time 4344 assigned request 236.220.142.210 of processing time 70 to Web Server 3
+At time 4386 processed request from 197.132.232.165 to 165.9.195.191
+At time 4387 assigned request 66.28.49.197 of processing time 305 to Web Server 4
+At time 4401 processed request from 171.36.86.213 to 73.150.167.35
+At time 4402 assigned request 57.9.251.243 of processing time 187 to Web Server 7
+At time 4414 processed request from 236.220.142.210 to 179.22.173.156
+At time 4415 assigned request 193.75.120.238 of processing time 178 to Web Server 3
+At time 4419 processed request from 228.19.78.125 to 190.114.211.147
+At time 4420 assigned request 146.183.163.141 of processing time 373 to Web Server 1
+At time 4464 processed request from 159.175.39.84 to 167.158.77.70
+At time 4465 assigned request 2.230.8.248 of processing time 109 to Web Server 2
+At time 4472 processed request from 93.185.152.82 to 238.242.219.223
+At time 4473 assigned request 65.5.205.173 of processing time 272 to Web Server 6
+At time 4486 processed request from 239.83.0.202 to 30.206.136.12
+At time 4487 assigned request 121.49.91.128 of processing time 473 to Web Server 10
+At time 4532 processed request from 248.119.249.159 to 61.125.135.226
+At time 4533 assigned request 228.15.202.51 of processing time 94 to Web Server 8
+At time 4553 processed request from 215.135.219.232 to 228.148.128.55
+At time 4554 assigned request 78.252.226.88 of processing time 434 to Web Server 5
+At time 4574 processed request from 2.230.8.248 to 31.18.243.18
+At time 4575 assigned request 63.15.99.144 of processing time 134 to Web Server 2
+At time 4589 processed request from 57.9.251.243 to 248.78.243.195
+At time 4590 assigned request 253.45.168.9 of processing time 19 to Web Server 7
+At time 4593 processed request from 193.75.120.238 to 56.84.124.10
+At time 4594 assigned request 132.128.210.84 of processing time 136 to Web Server 3
+At time 4604 processed request from 115.18.98.41 to 177.18.80.5
+At time 4605 assigned request 31.77.246.205 of processing time 382 to Web Server 9
+At time 4609 processed request from 253.45.168.9 to 17.183.212.68
+At time 4610 assigned request 196.7.151.28 of processing time 388 to Web Server 7
+At time 4627 processed request from 228.15.202.51 to 17.176.60.9
+At time 4628 assigned request 123.226.26.67 of processing time 445 to Web Server 8
+At time 4692 processed request from 66.28.49.197 to 143.68.39.185
+At time 4693 assigned request 228.242.144.240 of processing time 432 to Web Server 4
+At time 4709 processed request from 63.15.99.144 to 136.148.235.9
+At time 4710 assigned request 236.15.133.123 of processing time 285 to Web Server 2
+At time 4730 processed request from 132.128.210.84 to 206.206.55.39
+At time 4731 assigned request 215.179.158.172 of processing time 307 to Web Server 3
+At time 4745 processed request from 65.5.205.173 to 198.25.37.180
+At time 4746 assigned request 97.135.162.202 of processing time 49 to Web Server 6
+At time 4793 processed request from 146.183.163.141 to 249.192.190.190
+At time 4794 assigned request 55.66.131.160 of processing time 450 to Web Server 1
+At time 4795 processed request from 97.135.162.202 to 107.148.90.91
+At time 4796 assigned request 177.188.85.65 of processing time 290 to Web Server 6
+At time 4960 processed request from 121.49.91.128 to 195.18.36.80
+At time 4961 assigned request 96.6.169.71 of processing time 294 to Web Server 10
+At time 4987 processed request from 31.77.246.205 to 140.6.48.28
+At time 4988 processed request from 78.252.226.88 to 61.232.38.234
+At time 4988 assigned request 125.139.248.34 of processing time 402 to Web Server 9
+At time 4989 assigned request 56.135.18.158 of processing time 193 to Web Server 5
+At time 4995 processed request from 236.15.133.123 to 211.140.18.239
+At time 4996 assigned request 253.89.160.52 of processing time 346 to Web Server 2
+At time 4998 processed request from 196.7.151.28 to 4.196.196.14
+At time 4999 assigned request 15.235.62.171 of processing time 465 to Web Server 7
+At time 5038 processed request from 215.179.158.172 to 46.128.198.114
+At time 5039 assigned request 221.49.237.70 of processing time 254 to Web Server 3
+At time 5073 processed request from 123.226.26.67 to 102.154.21.187
+At time 5074 assigned request 38.252.38.135 of processing time 226 to Web Server 8
+At time 5086 processed request from 177.188.85.65 to 147.9.224.63
+At time 5087 assigned request 206.11.59.219 of processing time 440 to Web Server 6
+At time 5125 processed request from 228.242.144.240 to 17.221.230.222
+At time 5126 assigned request 227.105.25.111 of processing time 206 to Web Server 4
+At time 5182 processed request from 56.135.18.158 to 56.206.244.121
+At time 5183 assigned request 209.229.188.125 of processing time 397 to Web Server 5
+At time 5244 processed request from 55.66.131.160 to 46.146.37.169
+At time 5245 assigned request 35.185.222.92 of processing time 328 to Web Server 1
+At time 5255 processed request from 96.6.169.71 to 103.49.233.49
+At time 5256 assigned request 189.125.202.76 of processing time 379 to Web Server 10
+At time 5293 processed request from 221.49.237.70 to 105.116.88.8
+At time 5294 assigned request 176.44.8.100 of processing time 17 to Web Server 3
+At time 5300 processed request from 38.252.38.135 to 249.127.39.45
+At time 5301 assigned request 216.30.138.137 of processing time 426 to Web Server 8
+At time 5311 processed request from 176.44.8.100 to 253.237.32.122
+At time 5312 assigned request 81.53.46.86 of processing time 475 to Web Server 3
+At time 5332 processed request from 227.105.25.111 to 71.74.92.141
+At time 5333 assigned request 84.164.219.207 of processing time 441 to Web Server 4
+At time 5342 processed request from 253.89.160.52 to 186.166.222.1
+At time 5343 assigned request 196.216.126.188 of processing time 83 to Web Server 2
+At time 5390 processed request from 125.139.248.34 to 194.58.166.98
+At time 5391 assigned request 138.160.123.85 of processing time 11 to Web Server 9
+At time 5402 processed request from 138.160.123.85 to 242.176.131.72
+At time 5403 assigned request 46.104.225.57 of processing time 14 to Web Server 9
+At time 5417 processed request from 46.104.225.57 to 189.133.20.140
+At time 5418 assigned request 27.100.145.31 of processing time 338 to Web Server 9
+At time 5426 processed request from 196.216.126.188 to 176.156.70.57
+At time 5427 assigned request 58.43.82.24 of processing time 286 to Web Server 2
+At time 5464 processed request from 15.235.62.171 to 104.201.163.139
+At time 5465 assigned request 67.141.44.229 of processing time 188 to Web Server 7
+At time 5527 processed request from 206.11.59.219 to 26.38.26.198
+At time 5528 assigned request 75.9.222.36 of processing time 497 to Web Server 6
+At time 5573 processed request from 35.185.222.92 to 135.234.151.99
+At time 5574 assigned request 30.226.80.55 of processing time 47 to Web Server 1
+At time 5580 processed request from 209.229.188.125 to 11.184.163.146
+At time 5581 assigned request 124.200.59.96 of processing time 52 to Web Server 5
+At time 5621 processed request from 30.226.80.55 to 29.123.137.53
+At time 5622 assigned request 34.183.121.116 of processing time 95 to Web Server 1
+At time 5633 processed request from 124.200.59.96 to 11.201.141.240
+At time 5634 assigned request 149.220.236.0 of processing time 142 to Web Server 5
+At time 5635 processed request from 189.125.202.76 to 96.52.101.207
+At time 5636 assigned request 203.188.33.252 of processing time 283 to Web Server 10
+At time 5653 processed request from 67.141.44.229 to 187.149.198.245
+At time 5654 assigned request 1.37.228.133 of processing time 202 to Web Server 7
+At time 5713 processed request from 58.43.82.24 to 181.242.147.10
+At time 5714 assigned request 130.14.197.42 of processing time 429 to Web Server 2
+At time 5717 processed request from 34.183.121.116 to 2.131.82.39
+At time 5718 assigned request 229.243.207.209 of processing time 40 to Web Server 1
+At time 5727 processed request from 216.30.138.137 to 65.67.103.157
+At time 5728 assigned request 219.243.91.207 of processing time 423 to Web Server 8
+At time 5756 processed request from 27.100.145.31 to 40.105.158.229
+At time 5757 assigned request 79.120.132.237 of processing time 298 to Web Server 9
+At time 5758 processed request from 229.243.207.209 to 190.139.242.187
+At time 5759 assigned request 84.59.216.240 of processing time 35 to Web Server 1
+At time 5774 processed request from 84.164.219.207 to 84.7.215.184
+At time 5775 assigned request 74.228.68.13 of processing time 242 to Web Server 4
+At time 5776 processed request from 149.220.236.0 to 251.207.80.50
+At time 5777 assigned request 234.67.165.178 of processing time 300 to Web Server 5
+At time 5787 processed request from 81.53.46.86 to 242.171.32.62
+At time 5788 assigned request 200.51.60.253 of processing time 49 to Web Server 3
+At time 5794 processed request from 84.59.216.240 to 32.203.191.242
+At time 5795 assigned request 160.55.138.42 of processing time 199 to Web Server 1
+At time 5837 processed request from 200.51.60.253 to 135.119.213.119
+At time 5838 assigned request 166.248.190.209 of processing time 51 to Web Server 3
+At time 5856 processed request from 1.37.228.133 to 71.155.255.187
+At time 5857 assigned request 148.203.21.172 of processing time 221 to Web Server 7
+At time 5889 processed request from 166.248.190.209 to 226.1.118.148
+At time 5890 assigned request 96.102.70.248 of processing time 90 to Web Server 3
+At time 5919 processed request from 203.188.33.252 to 56.233.56.152
+At time 5920 assigned request 240.159.142.31 of processing time 197 to Web Server 10
+At time 5980 processed request from 96.102.70.248 to 7.125.130.49
+At time 5981 assigned request 222.141.252.115 of processing time 314 to Web Server 3
+At time 5994 processed request from 160.55.138.42 to 129.110.110.143
+At time 5995 assigned request 208.182.236.159 of processing time 498 to Web Server 1
+At time 6017 processed request from 74.228.68.13 to 192.55.105.143
+At time 6018 assigned request 99.144.138.98 of processing time 349 to Web Server 4
+At time 6025 processed request from 75.9.222.36 to 37.66.181.68
+At time 6026 assigned request 118.124.134.222 of processing time 99 to Web Server 6
+At time 6055 processed request from 79.120.132.237 to 250.146.178.36
+At time 6056 assigned request 162.86.3.253 of processing time 66 to Web Server 9
+At time 6077 processed request from 234.67.165.178 to 147.29.54.128
+At time 6078 assigned request 59.170.221.149 of processing time 12 to Web Server 5
+At time 6078 processed request from 148.203.21.172 to 147.72.232.145
+At time 6079 assigned request 73.95.141.185 of processing time 129 to Web Server 7
+At time 6090 processed request from 59.170.221.149 to 13.109.31.111
+At time 6091 assigned request 83.142.50.137 of processing time 400 to Web Server 5
+At time 6117 processed request from 240.159.142.31 to 69.134.221.23
+At time 6118 assigned request 69.22.115.20 of processing time 465 to Web Server 10
+At time 6122 processed request from 162.86.3.253 to 38.185.233.197
+At time 6123 assigned request 94.6.155.75 of processing time 66 to Web Server 9
+At time 6125 processed request from 118.124.134.222 to 91.20.218.206
+At time 6126 assigned request 226.72.131.70 of processing time 326 to Web Server 6
+At time 6143 processed request from 130.14.197.42 to 163.161.22.163
+At time 6144 assigned request 1.176.110.176 of processing time 127 to Web Server 2
+At time 6151 processed request from 219.243.91.207 to 244.129.180.121
+At time 6152 assigned request 65.250.188.109 of processing time 408 to Web Server 8
+At time 6189 processed request from 94.6.155.75 to 79.250.216.8
+At time 6190 assigned request 2.124.26.210 of processing time 299 to Web Server 9
+At time 6208 processed request from 73.95.141.185 to 213.9.63.179
+At time 6209 assigned request 103.30.34.169 of processing time 23 to Web Server 7
+At time 6232 processed request from 103.30.34.169 to 31.211.23.207
+At time 6233 assigned request 156.243.210.114 of processing time 286 to Web Server 7
+At time 6271 processed request from 1.176.110.176 to 245.132.35.9
+At time 6272 assigned request 241.169.201.3 of processing time 470 to Web Server 2
+At time 6295 processed request from 222.141.252.115 to 33.199.136.205
+At time 6296 assigned request 128.212.73.126 of processing time 390 to Web Server 3
+At time 6367 processed request from 99.144.138.98 to 128.42.240.159
+At time 6368 assigned request 115.252.86.60 of processing time 450 to Web Server 4
+At time 6452 processed request from 226.72.131.70 to 155.17.121.36
+At time 6453 assigned request 218.57.31.255 of processing time 154 to Web Server 6
+At time 6489 processed request from 2.124.26.210 to 94.98.86.165
+At time 6490 assigned request 14.74.243.178 of processing time 232 to Web Server 9
+At time 6491 processed request from 83.142.50.137 to 48.136.140.45
+At time 6492 assigned request 98.233.232.232 of processing time 54 to Web Server 5
+At time 6493 processed request from 208.182.236.159 to 22.82.229.14
+At time 6494 assigned request 135.166.136.5 of processing time 85 to Web Server 1
+At time 6519 processed request from 156.243.210.114 to 52.204.46.161
+At time 6520 assigned request 236.73.24.97 of processing time 312 to Web Server 7
+At time 6546 processed request from 98.233.232.232 to 92.229.62.152
+At time 6547 assigned request 27.4.117.31 of processing time 94 to Web Server 5
+At time 6560 processed request from 65.250.188.109 to 88.194.8.164
+At time 6561 assigned request 236.141.83.106 of processing time 450 to Web Server 8
+At time 6579 processed request from 135.166.136.5 to 129.193.36.128
+At time 6580 assigned request 179.61.251.158 of processing time 378 to Web Server 1
+At time 6583 processed request from 69.22.115.20 to 81.30.241.230
+At time 6584 assigned request 24.223.164.69 of processing time 408 to Web Server 10
+At time 6607 processed request from 218.57.31.255 to 42.200.200.45
+At time 6608 assigned request 25.33.93.212 of processing time 464 to Web Server 6
+At time 6641 processed request from 27.4.117.31 to 102.94.7.78
+At time 6642 assigned request 34.105.24.157 of processing time 14 to Web Server 5
+At time 6656 processed request from 34.105.24.157 to 28.85.152.186
+At time 6657 assigned request 221.112.10.120 of processing time 285 to Web Server 5
+At time 6686 processed request from 128.212.73.126 to 60.103.160.229
+At time 6687 assigned request 197.137.253.212 of processing time 323 to Web Server 3
+At time 6722 processed request from 14.74.243.178 to 202.199.251.72
+At time 6723 assigned request 27.159.163.25 of processing time 52 to Web Server 9
+At time 6742 processed request from 241.169.201.3 to 172.69.29.126
+At time 6743 assigned request 135.247.228.6 of processing time 335 to Web Server 2
+At time 6775 processed request from 27.159.163.25 to 193.13.49.94
+At time 6776 assigned request 250.105.172.222 of processing time 116 to Web Server 9
+At time 6818 processed request from 115.252.86.60 to 152.73.14.10
+At time 6819 assigned request 250.52.80.38 of processing time 156 to Web Server 4
+At time 6832 processed request from 236.73.24.97 to 87.98.84.9
+At time 6833 assigned request 215.154.15.0 of processing time 321 to Web Server 7
+At time 6892 processed request from 250.105.172.222 to 47.53.220.3
+At time 6893 assigned request 57.56.39.22 of processing time 231 to Web Server 9
+At time 6942 processed request from 221.112.10.120 to 137.233.29.206
+At time 6943 assigned request 248.237.194.208 of processing time 286 to Web Server 5
+At time 6958 processed request from 179.61.251.158 to 42.68.182.139
+At time 6959 assigned request 16.216.174.193 of processing time 220 to Web Server 1
+At time 6975 processed request from 250.52.80.38 to 79.239.202.104
+At time 6976 assigned request 215.148.144.177 of processing time 27 to Web Server 4
+At time 6992 processed request from 24.223.164.69 to 250.168.187.25
+At time 6993 assigned request 105.166.13.40 of processing time 156 to Web Server 10
+At time 7003 processed request from 215.148.144.177 to 205.201.216.228
+At time 7004 assigned request 225.143.241.39 of processing time 488 to Web Server 4
+At time 7010 processed request from 197.137.253.212 to 163.30.49.119
+At time 7011 assigned request 29.49.41.134 of processing time 260 to Web Server 3
+At time 7011 processed request from 236.141.83.106 to 20.250.242.25
+At time 7012 assigned request 223.146.111.219 of processing time 87 to Web Server 8
+At time 7072 processed request from 25.33.93.212 to 13.234.40.119
+At time 7073 assigned request 228.14.35.199 of processing time 109 to Web Server 6
+At time 7078 processed request from 135.247.228.6 to 212.84.17.76
+At time 7079 assigned request 130.236.179.252 of processing time 347 to Web Server 2
+At time 7099 processed request from 223.146.111.219 to 251.22.233.35
+At time 7100 assigned request 227.165.165.111 of processing time 422 to Web Server 8
+At time 7124 processed request from 57.56.39.22 to 51.144.194.17
+At time 7125 assigned request 244.73.86.169 of processing time 73 to Web Server 9
+At time 7149 processed request from 105.166.13.40 to 158.251.235.111
+At time 7150 assigned request 127.173.107.210 of processing time 3 to Web Server 10
+At time 7153 processed request from 127.173.107.210 to 47.87.133.43
+At time 7154 processed request from 215.154.15.0 to 33.6.228.39
+At time 7154 assigned request 105.81.239.85 of processing time 469 to Web Server 10
+At time 7155 assigned request 50.130.122.100 of processing time 445 to Web Server 7
+At time 7179 processed request from 16.216.174.193 to 175.72.208.176
+At time 7180 assigned request 31.236.230.115 of processing time 376 to Web Server 1
+At time 7182 processed request from 228.14.35.199 to 240.179.184.23
+At time 7183 assigned request 54.194.238.151 of processing time 457 to Web Server 6
+At time 7198 processed request from 244.73.86.169 to 45.100.204.244
+At time 7199 assigned request 27.123.23.53 of processing time 165 to Web Server 9
+At time 7229 processed request from 248.237.194.208 to 232.246.32.14
+At time 7230 assigned request 116.204.47.101 of processing time 325 to Web Server 5
+At time 7271 processed request from 29.49.41.134 to 8.190.22.185
+At time 7272 assigned request 222.61.196.161 of processing time 427 to Web Server 3
+At time 7364 processed request from 27.123.23.53 to 173.153.176.17
+At time 7365 assigned request 206.145.50.65 of processing time 137 to Web Server 9
+At time 7426 processed request from 130.236.179.252 to 9.228.37.143
+At time 7427 assigned request 241.146.108.1 of processing time 236 to Web Server 2
+At time 7492 processed request from 225.143.241.39 to 159.202.213.96
+At time 7493 assigned request 75.183.129.209 of processing time 110 to Web Server 4
+At time 7502 processed request from 206.145.50.65 to 173.173.88.226
+At time 7503 assigned request 28.198.62.206 of processing time 347 to Web Server 9
+At time 7522 processed request from 227.165.165.111 to 133.55.222.96
+At time 7523 assigned request 174.46.95.8 of processing time 169 to Web Server 8
+At time 7555 processed request from 116.204.47.101 to 235.27.75.94
+At time 7556 processed request from 31.236.230.115 to 107.147.223.61
+At time 7556 assigned request 172.80.100.207 of processing time 377 to Web Server 5
+At time 7557 assigned request 16.2.232.67 of processing time 272 to Web Server 1
+At time 7600 processed request from 50.130.122.100 to 118.196.186.31
+At time 7601 assigned request 80.237.24.205 of processing time 164 to Web Server 7
+At time 7603 processed request from 75.183.129.209 to 150.191.149.55
+At time 7604 assigned request 29.24.134.21 of processing time 379 to Web Server 4
+At time 7623 processed request from 105.81.239.85 to 52.149.250.163
+At time 7624 assigned request 149.229.223.70 of processing time 456 to Web Server 10
+At time 7640 processed request from 54.194.238.151 to 43.63.134.128
+At time 7641 assigned request 221.185.236.32 of processing time 293 to Web Server 6
+At time 7663 processed request from 241.146.108.1 to 6.56.48.108
+At time 7664 assigned request 126.2.24.227 of processing time 297 to Web Server 2
+At time 7692 processed request from 174.46.95.8 to 31.241.116.32
+At time 7693 assigned request 64.175.136.178 of processing time 450 to Web Server 8
+At time 7699 processed request from 222.61.196.161 to 116.134.143.11
+At time 7700 assigned request 114.185.154.114 of processing time 207 to Web Server 3
+At time 7765 processed request from 80.237.24.205 to 155.70.44.163
+At time 7766 assigned request 56.239.51.173 of processing time 448 to Web Server 7
+At time 7829 processed request from 16.2.232.67 to 30.174.129.236
+At time 7830 assigned request 245.186.139.233 of processing time 8 to Web Server 1
+At time 7838 processed request from 245.186.139.233 to 250.58.114.172
+At time 7839 assigned request 223.61.9.66 of processing time 471 to Web Server 1
+At time 7850 processed request from 28.198.62.206 to 148.207.0.213
+At time 7851 assigned request 48.129.16.141 of processing time 23 to Web Server 9
+At time 7874 processed request from 48.129.16.141 to 185.255.192.102
+At time 7875 assigned request 246.43.189.76 of processing time 29 to Web Server 9
+At time 7904 processed request from 246.43.189.76 to 32.119.216.10
+At time 7905 assigned request 18.124.29.145 of processing time 496 to Web Server 9
+At time 7907 processed request from 114.185.154.114 to 151.83.95.183
+At time 7908 assigned request 92.122.43.182 of processing time 415 to Web Server 3
+At time 7933 processed request from 172.80.100.207 to 155.27.81.109
+At time 7934 assigned request 198.247.204.50 of processing time 219 to Web Server 5
+At time 7934 processed request from 221.185.236.32 to 9.217.56.214
+At time 7935 assigned request 102.18.34.215 of processing time 492 to Web Server 6
+At time 7961 processed request from 126.2.24.227 to 32.48.105.53
+At time 7962 assigned request 78.80.151.88 of processing time 127 to Web Server 2
+At time 7983 processed request from 29.24.134.21 to 196.214.121.148
+At time 7984 assigned request 48.41.242.150 of processing time 500 to Web Server 4
+At time 8080 processed request from 149.229.223.70 to 245.225.47.56
+At time 8081 assigned request 90.17.18.115 of processing time 396 to Web Server 10
+At time 8089 processed request from 78.80.151.88 to 172.17.131.98
+At time 8090 assigned request 52.67.0.46 of processing time 433 to Web Server 2
+At time 8143 processed request from 64.175.136.178 to 68.109.145.138
+At time 8144 assigned request 215.109.95.146 of processing time 144 to Web Server 8
+At time 8153 processed request from 198.247.204.50 to 238.248.239.58
+At time 8154 assigned request 111.150.152.71 of processing time 493 to Web Server 5
+At time 8214 processed request from 56.239.51.173 to 109.54.197.80
+At time 8215 assigned request 126.249.112.200 of processing time 493 to Web Server 7
+At time 8288 processed request from 215.109.95.146 to 157.136.133.51
+At time 8289 assigned request 24.32.47.21 of processing time 323 to Web Server 8
+At time 8310 processed request from 223.61.9.66 to 175.194.220.34
+At time 8311 assigned request 252.15.110.115 of processing time 371 to Web Server 1
+At time 8323 processed request from 92.122.43.182 to 170.172.198.55
+At time 8324 assigned request 181.30.88.214 of processing time 348 to Web Server 3
+At time 8401 processed request from 18.124.29.145 to 91.90.154.157
+At time 8402 assigned request 249.46.217.63 of processing time 256 to Web Server 9
+At time 8427 processed request from 102.18.34.215 to 37.158.244.182
+At time 8428 assigned request 11.207.123.70 of processing time 134 to Web Server 6
+At time 8477 processed request from 90.17.18.115 to 119.37.149.79
+At time 8478 assigned request 184.74.205.172 of processing time 447 to Web Server 10
+At time 8484 processed request from 48.41.242.150 to 239.234.98.33
+At time 8485 assigned request 85.27.238.211 of processing time 4 to Web Server 4
+At time 8489 processed request from 85.27.238.211 to 20.28.172.83
+At time 8490 assigned request 166.194.190.151 of processing time 196 to Web Server 4
+At time 8523 processed request from 52.67.0.46 to 146.80.197.234
+At time 8524 assigned request 156.199.151.164 of processing time 383 to Web Server 2
+At time 8562 processed request from 11.207.123.70 to 203.138.180.62
+At time 8563 assigned request 92.48.181.229 of processing time 154 to Web Server 6
+At time 8612 processed request from 24.32.47.21 to 247.157.116.138
+At time 8613 assigned request 239.6.56.81 of processing time 378 to Web Server 8
+At time 8647 processed request from 111.150.152.71 to 240.169.89.99
+At time 8648 assigned request 157.85.219.246 of processing time 133 to Web Server 5
+At time 8658 processed request from 249.46.217.63 to 70.249.110.91
+At time 8659 assigned request 111.6.78.79 of processing time 124 to Web Server 9
+At time 8672 processed request from 181.30.88.214 to 157.81.70.101
+At time 8673 assigned request 213.26.94.186 of processing time 176 to Web Server 3
+At time 8682 processed request from 252.15.110.115 to 126.4.11.197
+At time 8683 assigned request 237.106.83.181 of processing time 48 to Web Server 1
+At time 8686 processed request from 166.194.190.151 to 205.141.18.19
+At time 8687 assigned request 52.139.46.86 of processing time 289 to Web Server 4
+At time 8708 processed request from 126.249.112.200 to 45.179.200.91
+At time 8709 assigned request 36.78.222.41 of processing time 402 to Web Server 7
+At time 8717 processed request from 92.48.181.229 to 134.208.211.89
+At time 8718 assigned request 236.209.93.252 of processing time 144 to Web Server 6
+At time 8731 processed request from 237.106.83.181 to 7.168.145.253
+At time 8732 assigned request 248.5.205.146 of processing time 166 to Web Server 1
+At time 8781 processed request from 157.85.219.246 to 241.163.141.149
+At time 8782 assigned request 245.53.155.140 of processing time 214 to Web Server 5
+At time 8783 processed request from 111.6.78.79 to 98.127.5.71
+At time 8784 assigned request 99.9.236.102 of processing time 396 to Web Server 9
+At time 8849 processed request from 213.26.94.186 to 9.100.243.91
+At time 8850 assigned request 139.66.241.91 of processing time 396 to Web Server 3
+At time 8862 processed request from 236.209.93.252 to 191.200.80.116
+At time 8863 assigned request 128.141.192.210 of processing time 24 to Web Server 6
+At time 8887 processed request from 128.141.192.210 to 130.245.109.14
+At time 8888 assigned request 87.120.208.101 of processing time 163 to Web Server 6
+At time 8898 processed request from 248.5.205.146 to 57.88.192.144
+At time 8899 assigned request 16.5.193.141 of processing time 309 to Web Server 1
+At time 8907 processed request from 156.199.151.164 to 127.225.113.44
+At time 8908 assigned request 117.20.10.166 of processing time 336 to Web Server 2
+At time 8925 processed request from 184.74.205.172 to 255.235.4.213
+At time 8926 assigned request 92.211.39.170 of processing time 305 to Web Server 10
+At time 8976 processed request from 52.139.46.86 to 250.52.165.73
+At time 8977 assigned request 85.226.190.36 of processing time 366 to Web Server 4
+At time 8991 processed request from 239.6.56.81 to 172.250.15.67
+At time 8992 assigned request 233.254.64.39 of processing time 480 to Web Server 8
+At time 8996 processed request from 245.53.155.140 to 89.234.106.130
+At time 8997 assigned request 201.128.78.227 of processing time 374 to Web Server 5
+At time 9051 processed request from 87.120.208.101 to 220.218.82.66
+At time 9052 assigned request 170.1.221.38 of processing time 155 to Web Server 6
+At time 9111 processed request from 36.78.222.41 to 36.249.135.222
+At time 9112 assigned request 168.97.50.252 of processing time 385 to Web Server 7
+At time 9180 processed request from 99.9.236.102 to 245.190.195.242
+At time 9181 assigned request 145.164.189.122 of processing time 121 to Web Server 9
+At time 9207 processed request from 170.1.221.38 to 86.192.228.123
+At time 9208 processed request from 16.5.193.141 to 145.3.126.236
+At time 9208 assigned request 234.91.159.55 of processing time 101 to Web Server 6
+At time 9209 assigned request 213.16.114.135 of processing time 267 to Web Server 1
+At time 9231 processed request from 92.211.39.170 to 43.160.123.144
+At time 9232 assigned request 233.242.144.141 of processing time 49 to Web Server 10
+At time 9244 processed request from 117.20.10.166 to 148.151.102.102
+At time 9245 assigned request 135.198.242.160 of processing time 167 to Web Server 2
+At time 9246 processed request from 139.66.241.91 to 58.247.40.204
+At time 9247 assigned request 224.253.126.216 of processing time 435 to Web Server 3
+At time 9281 processed request from 233.242.144.141 to 131.52.74.253
+At time 9282 assigned request 30.19.252.60 of processing time 82 to Web Server 10
+At time 9302 processed request from 145.164.189.122 to 109.61.200.80
+At time 9303 assigned request 0.211.111.161 of processing time 212 to Web Server 9
+At time 9309 processed request from 234.91.159.55 to 5.161.21.44
+At time 9310 assigned request 224.58.206.51 of processing time 246 to Web Server 6
+At time 9343 processed request from 85.226.190.36 to 242.195.230.127
+At time 9344 assigned request 64.61.246.136 of processing time 15 to Web Server 4
+At time 9359 processed request from 64.61.246.136 to 91.9.132.151
+At time 9360 assigned request 115.99.143.229 of processing time 395 to Web Server 4
+At time 9364 processed request from 30.19.252.60 to 252.238.204.137
+At time 9365 assigned request 138.152.184.112 of processing time 207 to Web Server 10
+At time 9371 processed request from 201.128.78.227 to 220.34.10.134
+At time 9372 assigned request 9.93.255.166 of processing time 224 to Web Server 5
+At time 9412 processed request from 135.198.242.160 to 176.77.63.232
+At time 9413 assigned request 166.170.46.172 of processing time 380 to Web Server 2
+At time 9472 processed request from 233.254.64.39 to 115.84.50.25
+At time 9473 assigned request 158.86.248.92 of processing time 56 to Web Server 8
+At time 9476 processed request from 213.16.114.135 to 184.211.185.181
+At time 9477 assigned request 6.142.180.18 of processing time 16 to Web Server 1
+At time 9493 processed request from 6.142.180.18 to 151.17.17.61
+At time 9494 assigned request 77.218.212.228 of processing time 439 to Web Server 1
+At time 9497 processed request from 168.97.50.252 to 74.48.61.114
+At time 9498 assigned request 163.103.157.151 of processing time 99 to Web Server 7
+At time 9515 processed request from 0.211.111.161 to 90.53.147.250
+At time 9516 assigned request 32.118.37.41 of processing time 453 to Web Server 9
+At time 9529 processed request from 158.86.248.92 to 224.144.20.80
+At time 9530 assigned request 239.160.136.158 of processing time 74 to Web Server 8
+At time 9556 processed request from 224.58.206.51 to 26.203.177.242
+At time 9557 assigned request 241.228.14.141 of processing time 360 to Web Server 6
+At time 9572 processed request from 138.152.184.112 to 120.242.62.171
+At time 9573 assigned request 30.175.222.243 of processing time 232 to Web Server 10
+At time 9596 processed request from 9.93.255.166 to 157.60.156.37
+At time 9597 assigned request 203.215.94.22 of processing time 277 to Web Server 5
+At time 9597 processed request from 163.103.157.151 to 6.244.144.98
+At time 9598 assigned request 1.216.190.228 of processing time 378 to Web Server 7
+At time 9604 processed request from 239.160.136.158 to 237.98.115.210
+At time 9605 assigned request 104.129.74.228 of processing time 57 to Web Server 8
+At time 9662 processed request from 104.129.74.228 to 160.249.194.147
+At time 9663 assigned request 22.171.195.230 of processing time 486 to Web Server 8
+At time 9682 processed request from 224.253.126.216 to 210.143.74.89
+At time 9683 assigned request 67.44.199.47 of processing time 343 to Web Server 3
+At time 9755 processed request from 115.99.143.229 to 99.99.84.4
+At time 9756 assigned request 144.4.192.186 of processing time 284 to Web Server 4
+At time 9793 processed request from 166.170.46.172 to 29.145.59.2
+At time 9794 assigned request 254.19.117.199 of processing time 492 to Web Server 2
+At time 9805 processed request from 30.175.222.243 to 208.84.24.249
+At time 9806 assigned request 37.85.35.134 of processing time 389 to Web Server 10
+At time 9874 processed request from 203.215.94.22 to 199.254.159.101
+At time 9875 assigned request 237.182.142.86 of processing time 233 to Web Server 5
+At time 9917 processed request from 241.228.14.141 to 136.118.42.31
+At time 9918 assigned request 89.5.80.59 of processing time 355 to Web Server 6
+At time 9933 processed request from 77.218.212.228 to 128.126.18.44
+At time 9934 assigned request 208.85.158.102 of processing time 193 to Web Server 1
+At time 9969 processed request from 32.118.37.41 to 124.179.222.142
+At time 9970 assigned request 217.78.85.86 of processing time 99 to Web Server 9
+At time 9976 processed request from 1.216.190.228 to 202.162.242.87
+At time 9977 assigned request 119.168.81.118 of processing time 72 to Web Server 7
+Finished at time 10000 with queue size 3449
