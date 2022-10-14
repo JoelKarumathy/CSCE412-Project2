@@ -52,16 +52,18 @@ int main(int argc, char** argv){
 
 	queue<Request*> requestqueue;
 
-	//int startingQueueSize = servers*2;
 	int startingQueueSize = 500;
+	int min_time_request = 2;
+	int max_time_request = 500;
 
 	for(int i = 0; i < startingQueueSize; i++){
-		requestqueue.push(new Request());
+		requestqueue.push(new Request(min_time_request, max_time_request));
 	}
 
 	int iteration = 0;
 
 	cout << "Starting with queue size " + to_string(requestqueue.size())  << endl;
+	cout << "Range for task times: " << min_time_request << "-" << max_time_request << endl;
 
 	int timeToNextRequest = rand() % 5 + 1;
 
@@ -91,7 +93,7 @@ int main(int argc, char** argv){
 		}
 
 		if(--timeToNextRequest == 0){
-			requestqueue.push(new Request());
+			requestqueue.push(new Request(min_time_request, max_time_request));
 			timeToNextRequest = rand() % 5 + 1;
 		}
 

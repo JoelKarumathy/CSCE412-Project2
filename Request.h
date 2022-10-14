@@ -15,7 +15,7 @@ class Request{
 		string ipOUT; //!< Randomly generated IP address to be returned
 		int time; //!< Time to complete request
 
-		Request();
+		Request(int min, int max);
 
 };
 
