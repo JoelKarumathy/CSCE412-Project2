@@ -9,6 +9,10 @@
  * \section run_section Running The Program
  * To compile this program run `make` in the project root directory.
  * To run the compiled code run `./a.out {Number of Servers} {Number of Clock Cycles}`.
+ * \section code_structure Code Structure
+ * The Request class generates random IP addresses, both in and out, and random times for each request to be processed.
+ * The Webserver class takes requests from the Load Balancer(main function) and processes the requests.
+ * The main function located in LoadBalancer.cpp keeps a queue of request objects, keeps track of clock cycles, and assigns requests to a Webserver. 
 */
 
 #include<iostream>

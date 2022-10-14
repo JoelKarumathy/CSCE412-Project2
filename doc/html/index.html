@@ -73,6 +73,9 @@ Introduction</h1>
 <h1><a class="anchor" id="run_section"></a>
 Running The Program</h1>
 <p>To compile this program run <code>make</code> in the project root directory. To run the compiled code run <code>./a.out {Number of Servers} {Number of Clock Cycles}</code>. </p>
+<h1><a class="anchor" id="code_structure"></a>
+Code Structure</h1>
+<p>The <a class="el" href="classRequest.html">Request</a> class generates random IP addresses, both in and out, and random times for each request to be processed. The <a class="el" href="classWebserver.html">Webserver</a> class takes requests from the Load Balancer(main function) and processes the requests. The main function located in <a class="el" href="LoadBalancer_8cpp.html">LoadBalancer.cpp</a> keeps a queue of request objects, keeps track of clock cycles, and assigns requests to a <a class="el" href="classWebserver.html">Webserver</a>. </p>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 <!-- start footer part -->
